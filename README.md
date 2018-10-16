@@ -1,0 +1,1 @@
+# JavaSamplequeries
